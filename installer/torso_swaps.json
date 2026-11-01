@@ -1,0 +1,194 @@
+[
+ {
+  "setup": "FBS_GS_General_Disguise",
+  "slot": 0,
+  "old": "e843ed5f",
+  "new": "2fdc3eab",
+  "old_name": "FBP_RS_Sean_Nazi_General_SS",
+  "new_name": "FBP_SS_UB_General"
+ },
+ {
+  "setup": "FBS_GS_Grunt_Disguise",
+  "slot": 0,
+  "old": "df36aba6",
+  "new": "e60963a9",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_GS",
+  "new_name": "FBP_GS_UB_Infantry"
+ },
+ {
+  "setup": "FBS_GS_Heavy_Disguise",
+  "slot": 0,
+  "old": "a2fa7e96",
+  "new": "815e480e",
+  "old_name": "FBP_RS_Sean_Nazi_Officer_GS",
+  "new_name": "FBP_GS_UB_Officer"
+ },
+ {
+  "setup": "FBS_GS_Officer_Disguise",
+  "slot": 0,
+  "old": "a2fa7e96",
+  "new": "815e480e",
+  "old_name": "FBP_RS_Sean_Nazi_Officer_GS",
+  "new_name": "FBP_GS_UB_Officer"
+ },
+ {
+  "setup": "FBS_KM_Grunt_Disguise",
+  "slot": 0,
+  "old": "7db873bf",
+  "new": "6c56988b",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_KM",
+  "new_name": "FBP_KM_UB_Infantry"
+ },
+ {
+  "setup": "FBS_KM_Heavy_Disguise",
+  "slot": 0,
+  "old": "7db873bf",
+  "new": "6c56988b",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_KM",
+  "new_name": "FBP_KM_UB_Infantry"
+ },
+ {
+  "setup": "FBS_SS_Flame_FT_Disguise",
+  "slot": 0,
+  "old": "b2fba795",
+  "new": "b5cb3bea",
+  "old_name": "FBP_RS_Sean_Nazi_General_WM",
+  "new_name": "FBP_WM_UB_General"
+ },
+ {
+  "setup": "FBS_SS_General_Disguise",
+  "slot": 0,
+  "old": "b2fba795",
+  "new": "2fdc3eab",
+  "old_name": "FBP_RS_Sean_Nazi_General_WM",
+  "new_name": "FBP_SS_UB_General"
+ },
+ {
+  "setup": "FBS_SS_Grenadier_Disguise",
+  "slot": 0,
+  "old": "ef65e699",
+  "new": "e61c6e4d",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_NT",
+  "new_name": "FBP_NT_UB_Infantry"
+ },
+ {
+  "setup": "FBS_SS_Grenadier_Disguise",
+  "slot": 3,
+  "old": "f4a3828c",
+  "new": "4c1a0b2f",
+  "old_name": "FBP_WM_AC_Grenadier01_SEAN",
+  "new_name": "FBP_SS_AC_Grenadier01"
+ },
+ {
+  "setup": "FBS_SS_Grunt_Disguise",
+  "slot": 0,
+  "old": "eb51b1a0",
+  "new": "0a47fb63",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_SS",
+  "new_name": "FBP_SS_UB_Infantry"
+ },
+ {
+  "setup": "FBS_SS_Heavy_Disguise",
+  "slot": 0,
+  "old": "eb51b1a0",
+  "new": "0a47fb63",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_SS",
+  "new_name": "FBP_SS_UB_Infantry"
+ },
+ {
+  "setup": "FBS_SS_Officer_Disguise",
+  "slot": 0,
+  "old": "eb51b1a0",
+  "new": "cd9c9fe4",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_SS",
+  "new_name": "FBP_SS_UB_Officer"
+ },
+ {
+  "setup": "FBS_SS_Sniper_Disguise",
+  "slot": 0,
+  "old": "eb51b1a0",
+  "new": "0a47fb63",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_SS",
+  "new_name": "FBP_SS_UB_Infantry"
+ },
+ {
+  "setup": "FBS_WM_General_Disguise",
+  "slot": 0,
+  "old": "e843ed5f",
+  "new": "2fdc3eab",
+  "old_name": "FBP_RS_Sean_Nazi_General_SS",
+  "new_name": "FBP_SS_UB_General"
+ },
+ {
+  "setup": "FBS_WM_Grenadier_Disguise",
+  "slot": 0,
+  "old": "718d5fec",
+  "new": "f21df3e2",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_WM",
+  "new_name": "FBP_LF_UB_Infantry"
+ },
+ {
+  "setup": "FBS_WM_Grenadier_Disguise",
+  "slot": 4,
+  "old": "f4a3828c",
+  "new": "26d3f3e1",
+  "old_name": "FBP_WM_AC_Grenadier01_SEAN",
+  "new_name": "FBP_WM_AC_Grenadier01"
+ },
+ {
+  "setup": "FBS_WM_Grunt_Disguise",
+  "slot": 0,
+  "old": "718d5fec",
+  "new": "339fb930",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_WM",
+  "new_name": "FBP_WM_UB_Officer"
+ },
+ {
+  "setup": "FBS_WM_Grunt_Disguise",
+  "slot": 3,
+  "old": "6183e672",
+  "new": "7d524ba9",
+  "old_name": "FBP_WM_AC_Grunt03_SEAN",
+  "new_name": "FBP_WM_AC_Grunt03"
+ },
+ {
+  "setup": "FBS_WM_Grunt_RF_Disguise",
+  "slot": 0,
+  "old": "718d5fec",
+  "new": "f21df3e2",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_WM",
+  "new_name": "FBP_LF_UB_Infantry"
+ },
+ {
+  "setup": "FBS_WM_Heavy_Disguise",
+  "slot": 0,
+  "old": "b2fba795",
+  "new": "2aa35b80",
+  "old_name": "FBP_RS_Sean_Nazi_General_WM",
+  "new_name": "FBP_WM_UB_Coat"
+ },
+ {
+  "setup": "FBS_WM_Heavy_Disguise",
+  "slot": 2,
+  "old": "54584f6b",
+  "new": "f4c91a39",
+  "old_name": "FBP_WM_AC_Heavy03_SEAN",
+  "new_name": "FBP_SS_AC_Heavy03"
+ },
+ {
+  "setup": "FBS_WM_Officer_Disguise",
+  "slot": 0,
+  "old": "718d5fec",
+  "new": "339fb930",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_WM",
+  "new_name": "FBP_WM_UB_Officer"
+ },
+ {
+  "setup": "FBS_WM_Sniper_Disguise",
+  "slot": 0,
+  "old": "718d5fec",
+  "new": "f21df3e2",
+  "old_name": "FBP_RS_Sean_Nazi_Infantry_WM",
+  "new_name": "FBP_LF_UB_Infantry"
+ }
+]

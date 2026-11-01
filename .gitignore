@@ -1,0 +1,6 @@
+# the built mod is shipped in the release zip, not in git
+release/
+installer/backups/
+__pycache__/
+*.pyc
+*.zip

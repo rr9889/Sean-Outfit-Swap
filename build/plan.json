@@ -1,0 +1,234 @@
+{
+ "jobs": [
+  {
+   "bundle": "FBS_GS_General_Disguise",
+   "donor": "FBS_GS_General",
+   "models": [
+    "0x124FB4C5",
+    "0x43B9164D",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_GS_Grunt_Disguise",
+   "donor": "FBS_GS_Grunt",
+   "models": [
+    "0x2274C44A",
+    "0xB8A45D4A",
+    "0xB352A40E",
+    "0x3684407E"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_GS_Heavy_Disguise",
+   "donor": "FBS_GS_Heavy",
+   "models": [
+    "0x6F2C9A8B",
+    "0x3039C2FB",
+    "0xB352A40E",
+    "0x3684407E"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_GS_Officer_Disguise",
+   "donor": "FBS_GS_Officer",
+   "models": [
+    "0x6F2C9A8B",
+    "0x3039C2FB",
+    "0xB352A40E",
+    "0x3684407E"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_KM_Grunt_Disguise",
+   "donor": "FBS_KM_Grunt",
+   "models": [
+    "0x814CE060",
+    "0xB5F3FF48",
+    "0xFE483EFA",
+    "0xC955EB5A"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_KM_Heavy_Disguise",
+   "donor": "FBS_KM_Heavy",
+   "models": [
+    "0x814CE060",
+    "0xB5F3FF48",
+    "0xFE483EFA",
+    "0xC955EB5A"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Flame_FT_Disguise",
+   "donor": "FBS_SS_Flame_FT",
+   "models": [
+    "0x752A4F9B",
+    "0x251657AB",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_General_Disguise",
+   "donor": "FBS_SS_General",
+   "models": [
+    "0x124FB4C5",
+    "0x43B9164D",
+    "0x8B1EA024",
+    "0xC2FE311C"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Grenadier_Disguise",
+   "donor": "FBS_SS_Grenadier",
+   "models": [
+    "0x0FC6B232",
+    "0x34A54402",
+    "0x37364495",
+    "0x5E41C67D",
+    "0xE1169EA3",
+    "0x7C849A23"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Grunt_Disguise",
+   "donor": "FBS_SS_Grunt",
+   "models": [
+    "0xF0834346",
+    "0x1BB37B46",
+    "0x8B1EA024",
+    "0xC2FE311C"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Heavy_Disguise",
+   "donor": "FBS_SS_Heavy",
+   "models": [
+    "0xF0834346",
+    "0x1BB37B46",
+    "0x8B1EA024",
+    "0xC2FE311C"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Officer_Disguise",
+   "donor": "FBS_SS_Officer",
+   "models": [
+    "0xF0834346",
+    "0x1BB37B46",
+    "0x8B1EA024",
+    "0xC2FE311C"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_SS_Sniper_Disguise",
+   "donor": "FBS_SS_Sniper",
+   "models": [
+    "0xF0834346",
+    "0x1BB37B46",
+    "0x8B1EA024",
+    "0xC2FE311C"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_General_Disguise",
+   "donor": "FBS_WM_General",
+   "models": [
+    "0x124FB4C5",
+    "0x43B9164D",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Grenadier_Disguise",
+   "donor": "FBS_WM_Grenadier",
+   "models": [
+    "0x0C80C08E",
+    "0x6197A4FE",
+    "0x37364495",
+    "0x5E41C67D",
+    "0xE1169EA3",
+    "0x7C849A23"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Grunt_Disguise",
+   "donor": "FBS_WM_Grunt",
+   "models": [
+    "0xC5F82D25",
+    "0xDD644AAD",
+    "0x37364495",
+    "0x5E41C67D",
+    "0x690FA71A",
+    "0xA6FC00FA"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Grunt_RF_Disguise",
+   "donor": "FBS_WM_Grunt_RF",
+   "models": [
+    "0x0C80C08E",
+    "0x6197A4FE",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Heavy_Disguise",
+   "donor": "FBS_WM_Heavy",
+   "models": [
+    "0x5D0129DA",
+    "0x129225BA",
+    "0x37364495",
+    "0x5E41C67D",
+    "0xE756CB67",
+    "0x9840AC87"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Officer_Disguise",
+   "donor": "FBS_WM_Officer",
+   "models": [
+    "0xC5F82D25",
+    "0xDD644AAD",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  },
+  {
+   "bundle": "FBS_WM_Sniper_Disguise",
+   "donor": "FBS_WM_Sniper",
+   "models": [
+    "0x0C80C08E",
+    "0x6197A4FE",
+    "0x37364495",
+    "0x5E41C67D"
+   ],
+   "textures": true
+  }
+ ],
+ "out": "patchdynamic0.megapack",
+ "changes": "changes.json"
+}
