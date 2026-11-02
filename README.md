@@ -1,5 +1,7 @@
 # Sean's Outfit Swap for The Saboteur
 
+![Sean in four disguises, each wearing the soldier's real uniform](docs/uni2.png)
+
 Every disguise now wears the soldier's real uniform — tunic, collar, tie and gear — instead of Sean's own
 open-shirted clothes.
 
